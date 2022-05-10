@@ -1,0 +1,23 @@
+{
+  "itemId" : "_2ds1UKVjEeyce-sk4T7tWg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_yEovgMTBEey44oHQaTH9XQ",
+    "parameterList" : [ {
+      "id" : "_V0PXsMjBEey2i6oYpK-Dlw",
+      "name" : "BL_3NF"
+    }, {
+      "id" : "_jw0N4MpOEey5dt_D3cwlZw",
+      "name" : "BL_DM"
+    }, {
+      "id" : "_0TLx8Mi3EeyBaOGEc0WPtQ",
+      "name" : "DB_DIR"
+    }, {
+      "id" : "_aEEsoMiqEeyBaOGEc0WPtQ",
+      "name" : "SA_RETAIL"
+    }, {
+      "id" : "_AVNP0MisEeyBaOGEc0WPtQ",
+      "name" : "SA_STOCK"
+    } ]
+  } ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yE51QMTBEey44oHQaTH9XQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_aEEsoMiqEeyBaOGEc0WPtQ" comment="" name="SA_RETAIL" prompt="SA_RETAIL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sa_retail.db"/>
+  <contextParameter xmi:id="_AVNP0MisEeyBaOGEc0WPtQ" comment="" name="SA_STOCK" prompt="SA_STOCK?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sa_stock.db"/>
+  <contextParameter xmi:id="_0TLx8Mi3EeyBaOGEc0WPtQ" comment="" name="DB_DIR" prompt="DB_DIR?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/_Mozhenkova_/_REPO_/talend/dbs/"/>
+  <contextParameter xmi:id="_V0PXsMjBEey2i6oYpK-Dlw" comment="" name="BL_3NF" prompt="BL_3NF?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="bl_3nf.db"/>
+  <contextParameter xmi:id="_jw0N4MpOEey5dt_D3cwlZw" comment="" name="BL_DM" prompt="BL_DM?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="bl_dm.db"/>
+</talendfile:ContextType>

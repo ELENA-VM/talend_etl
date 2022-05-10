@@ -1,0 +1,14 @@
+{
+  "itemId" : "_osH4UKRREeyqyaJhZOySqg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_yEovgMTBEey44oHQaTH9XQ",
+    "parameterList" : [ {
+      "id" : "_0TLx8Mi3EeyBaOGEc0WPtQ",
+      "name" : "DB_DIR"
+    }, {
+      "id" : "_AVNP0MisEeyBaOGEc0WPtQ",
+      "name" : "SA_STOCK"
+    } ]
+  } ]
+}
